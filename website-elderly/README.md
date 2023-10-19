@@ -14,7 +14,7 @@ The elderly often require special attention and care, and finding the right care
 ### Prerequisites
 
 - Node.js should be installed.
-- Package manager such as npm or yarn should be installed.
+- Package manager such as npm or yarn should be installed (in this project I used npm).
 
 ## Installation
 1. Clone the Repository
