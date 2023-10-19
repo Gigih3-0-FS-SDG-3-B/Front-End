@@ -18,7 +18,11 @@ The elderly often require special attention and care, and finding the right care
 
 ## Installation
 1. Clone the Repository
-```
-git clone https://github.com/Gigih3-0-FS-SDG-3-B/Front-End
-cd website-elderly
-```
+`git clone https://github.com/Gigih3-0-FS-SDG-3-B/Front-End`
+2. Navigate to the Project Directory
+`cd web-elderly`
+
+### Setting up React and Vite
+### Setting up Tailwind CSS and Daisy UI
+### Run the Application
+
