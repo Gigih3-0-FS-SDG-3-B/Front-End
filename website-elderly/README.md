@@ -16,7 +16,7 @@ The elderly often require special attention and care, and finding the right care
 - Node.js should be installed.
 - Package manager such as npm or yarn should be installed.
 
-### Installation
+## Installation
 1. Clone the Repository
 ```
 git clone https://github.com/Gigih3-0-FS-SDG-3-B/Front-End
