@@ -1,22 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from "react";
+import Home from "./pages/Home";
+import Footer from "./components/common/Footer";
+import Navbar from "./components/common/Navbar";
 
-function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <div>
-      <div className='flex h-screen items-center justify-center'>
-        <div className='prose text-center'>
-          <h1 className='m-4'>Welcome to Elderly💖</h1>
-          <p>Find support care for your beloved one</p>
-          <button className="btn btn-outline btn-secondary btn-xs sm:btn-sm md:btn-md lg:btn-lg">Find Support</button>
-        </div>
+class App extends React.Component {
+  render() {
+    return (
+      <div>
+        <Navbar />
+        <Home />
+        <Footer />
       </div>
-    </div>
-  )
+    );
+  }
 }
 
-export default App
+export default App;
