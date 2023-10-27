@@ -7,7 +7,7 @@ const backgroundImageStyle = {
   backgroundPosition: "center",
 };
 
-class Jumbotron extends React.Component {
+class Hero extends React.Component {
   render() {
     return (
       <div className="bg-primary text-white p-20" style={backgroundImageStyle}>
@@ -24,4 +24,4 @@ class Jumbotron extends React.Component {
   }
 }
 
-export default Jumbotron;
+export default Hero;

@@ -4,6 +4,7 @@ class Testimoni extends React.Component {
   render() {
     return (
       <div className="card w-96 bg-base-100 shadow-xl">
+        <div></div>
         <div className="card-body text-center items-center">
           <p>
             I can't express how much FindCare has helped me in finding certified
